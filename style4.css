@@ -1,0 +1,67 @@
+Body{
+    Front-family: arial, sans-serif;
+    Text-align: center; 
+    Height: 100px;
+    Width: 700%;
+    background-image: url(IMAGENES/pottery-1141887_960_720.jpg);   
+    Background-size: cover;
+    Opacity: 0.9;  
+    Filter: alpha; 
+}
+
+.nav{
+    Width: 100%; 
+    Height: 100%; 
+    background-image: url(https://static.pexels.com/photos/164592/pexels-photo-164592.jpeg);   
+    Background-size: cover;
+}
+
+.nav_wrapper{
+    Height: 100px;
+    Width: 700%;
+    Background: #377D7A; 
+    Margin-left: auto;
+    Margin-right: auto;
+    Margin-top: 100px;	
+    Opacity: 0.9;  
+    Filter: alpha; 
+}
+
+.nav_wrapper ul li {
+    List-style: none;
+    Display: inline;
+    Font-weight: bold;
+    Padding: 15px;
+}
+
+.wrapper a{
+    Color: white;
+    Text-decoration: none;
+    Padding: 10px;
+}
+
+.nav_wrapper ul li: hover{
+    Background: red;	
+    Transition:all 0.45s;
+}
+
+did > div {
+    border: 3px dotted red;
+    margin:20px;
+}
+
+div > img {
+    width: 250px;
+    padding: 10px 50px;
+    margin: 5px;
+}
+
+p {
+    text-align: center;
+}
+
+div {
+    display: inline-block;
+    border: 5px solid teal;
+    
+}

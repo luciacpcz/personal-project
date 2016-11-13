@@ -1,0 +1,459 @@
+Body{
+    font-family:  arial, sans-serif;
+    Text-align: center; 
+    Height: 100px;
+    Width: 100%;
+    background-image: url(IMAGENES/pottery-1141887_960_720.jpg); 
+    Background-size: cover;
+    background-color: rgba(160,160,160,0.2);
+   }
+
+li {
+    border: 3px dotted red;
+    display: inline-block;
+    width: 120px;
+    text-align: center;
+    
+}
+
+li:hover {
+    background-color: darkorange;
+    }
+
+.nav{
+    text-align: center;
+    color: white;
+    }
+
+ul {
+    padding: 15px;
+}
+
+
+
+.portfolio {
+    text-align: center;
+    color: white;
+    
+}
+
+.nav-wrapper{
+    Height: 100px;
+    Opacity: 0.9; 
+    color: white;
+    
+}
+
+
+.nav-wrapper li {
+    List-style: none;
+    Display: inline;
+    Font-weight: bold;
+    Padding: 15px;
+    width:110px;
+    
+}
+
+.nav-wrapper a{
+    Color: white;
+    Text-decoration: none;
+    Padding: 15px;
+}
+
+.nav-wrapper ul li: hover{
+    Background: red;	
+    Transition:all 0.45s;
+}
+
+.image div {
+    border: 3px dotted red;
+    margin:20px;
+    Background: white;	
+    background-color: rgba(160,160,160,0.8);  
+    height: 310px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.image img {
+    width: 200px;
+    padding: 40px 10px 10px;
+    margin: 5px;
+}
+
+.image {
+    text-align: center;
+    width: 100%;
+   
+}
+
+p {
+    text-align: center;
+    color: black;
+}
+
+div {
+    display: inline-block;
+    border: 5px teal;
+}
+
+.description {
+    text-align: center;
+    color: white;
+}
+
+
+.beginners {
+    border: 3px dotted red;
+    Background: white;	
+    background-color: rgba(160,160,160,0.8); 
+    text-align: center;
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 15px 15px;
+    width: 30%;
+    height: 1000px;
+}
+
+.beginners-tittle {
+    text-align: center;
+    color: maroon;
+    font-family: Cabin Sketch, cursive;
+}
+
+.intermediate {
+    border: 3px dotted red;
+    Background: white;	
+    background-color: rgba(160,160,160,0.8); 
+    text-align: center;
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 15px 15px;
+    width: 30%;
+    height: 1000px;
+}
+
+.intermediate-tittle {
+    text-align: center;
+    color: maroon;
+    font-family: Cabin Sketch, cursive;
+}
+
+.advanced {
+    border: 3px dotted red;
+    Background: white;	
+    background-color: rgba(160,160,160,0.8); 
+    text-align: center;
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 15px 15px;
+    width: 30%;
+    height: 1000px;
+}
+
+
+.advanced-tittle {
+    text-align: center;
+    color: maroon;
+    font-family: Cabin Sketch, cursive;
+}
+
+.studio {
+    text-align: center;
+    color: white;
+}
+    
+.workshop {
+    text-align: center;
+    color: white;
+    border: 3px dotted red;
+    Background: white;	
+    background-color: rgba(160,160,160,0.8); 
+    text-align: center;
+    color: black;
+    margin: 15px 15px 15px;
+    width: 70%;
+}
+
+.workshop-tittle {
+    text-align: center;
+    color: maroon;
+    font-family: Cabin Sketch, cursive;
+}
+
+
+.mission {
+    text-align: center;
+    color: white;
+    border: 3px dotted red;
+    Background: white;	
+    background-color: rgba(160,160,160,0.8); 
+    text-align: center;
+    color: black;
+    margin: 15px 15px 15px;
+    width: 70%;
+}
+
+.mission-tittle {
+    text-align: center;
+    color: maroon;
+    font-family: Cabin Sketch, cursive;
+}
+
+.value {
+    text-align: center;
+    color: white;
+    border: 3px dotted red;
+    Background: white;	
+    background-color: rgba(160,160,160,0.8); 
+    text-align: center;
+    color: black;
+    margin: 15px 15px 15px;
+    width: 70%;
+}
+
+.value-tittle {
+    text-align: center;
+    color: maroon;
+    font-family: Cabin Sketch, cursive;
+}
+
+
+.contact {
+    text-align: center;
+    color: white;
+}
+
+.price {
+    border: 3px dotted red;
+    Background: white;	
+    background-color: rgba(160,160,160,0.8); 
+    text-align: center;
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 15px 15px;
+    width: 30%;
+    text-align: center;
+    height: 330px;
+    
+}
+
+.price-tittle {
+    text-align: center;
+    color: maroon;
+    font-family: Cabin Sketch, cursive;
+}
+
+.schedule {
+    border: 3px dotted red;
+    Background: white;	
+    background-color: rgba(160,160,160,0.8); 
+    text-align: center;
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 15px 15px;
+    width: 30%;
+    text-align: center;
+    height: 330px;
+    
+   }
+
+.schedule-tittle {
+    text-align: center;
+    color: maroon;
+    font-family: Cabin Sketch, cursive;
+}
+
+.class-descrip {
+    border: 3px dotted red;
+    Background: white;	
+    background-color: rgba(160,160,160,0.8); 
+    text-align: center;
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 15px 15px;
+    width: 30%;
+    text-align: center;
+    height: 330px;
+   }
+
+.class-descri-tittle {
+    text-align: center;
+    color: maroon;
+    font-family: Cabin Sketch, cursive;
+}
+
+.instructors {
+    border: 3px dotted red;
+    Background: white;	
+    background-color: rgba(160,160,160,0.8); 
+    text-align: center;
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 15px 15px;
+    width: 30%;
+    text-align: center;
+    height: 505px;
+   }
+
+.instructors-tittle {
+    text-align: center;
+    color: maroon;
+    font-family: Cabin Sketch, cursive;
+}
+
+.location {
+    border: 3px dotted red;
+    Background: white;	
+    background-color: rgba(160,160,160,0.8); 
+    text-align: center;
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 15px 15px;
+    width: 30%;
+    text-align: center;
+    height: 505px;
+    
+   }
+
+.Location-tittle {
+    text-align: center;
+    color: maroon;
+    font-family: Cabin Sketch, cursive;
+}
+
+.map{
+    display: inline-block;
+    position: relative;
+    width: 200px;
+    height: 150px;
+    border: 3px solid black;
+   }
+
+
+iframe{
+    width: 100%;
+    height: 150px;
+}
+
+/*iframe {
+    width: 30%;
+    height: 200%;
+    margin-top: 100px;
+    margin: auto;
+    }*/
+
+.registration {
+    border: 3px dotted red;
+    Background: white;	
+    background-color: rgba(160,160,160,0.8); 
+    text-align: center;
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 15px 15px;
+    width: 30%;
+    text-align: center;
+    height: 505px;
+   }
+
+.registration-tittle {
+    text-align: center;
+    color: maroon;
+    font-family: Cabin Sketch, cursive;
+}
+
+.follow {
+    border: 3px dotted red;
+    Background: white;	
+    background-color: rgba(160,160,160,0.8); 
+    text-align: center;
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 15px 15px;
+    width: 95%;
+    text-align: center;
+    
+   }
+
+.follow-tittle {
+    text-align: center;
+    color: maroon;
+    font-family: Cabin Sketch, cursive;
+}
+
+.welcome {
+    text-align: center;
+    color: white;
+}
+
+.celebrate {
+    text-align: center;
+    color: white;
+}
+
+.group {
+    border: 3px dotted red;
+    Background: white;	
+    background-color: rgba(160,160,160,0.8); 
+    text-align: center;
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 15px 15px;
+    width: 30%;
+    height: 320px;
+}
+
+.group-tittle {
+    text-align: center;
+    color: maroon;
+    font-family: Cabin Sketch, cursive;
+}
+
+.shops {
+    border: 3px dotted red;
+    Background: white;	
+    background-color: rgba(160,160,160,0.8); 
+    text-align: center;
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 15px 15px;
+    width: 30%;
+    height: 320px;
+}
+
+.shops-tittle {
+    text-align: center;
+    color: maroon;
+    font-family: Cabin Sketch, cursive;
+}
+
+.offer {
+    border: 3px dotted red;
+    Background: white;	
+    background-color: rgba(160,160,160,0.8); 
+    text-align: center;
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 15px 15px;
+    width: 30%;
+    height: 320px;
+}
+
+.offer-tittle {
+    text-align: center;
+    color: maroon;
+    font-family: Cabin Sketch, cursive;
+}
